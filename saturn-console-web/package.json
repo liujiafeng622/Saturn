@@ -17,6 +17,7 @@
     "element-ui": "^2.4.11",
     "font-awesome": "^4.7.0",
     "moment": "^2.18.1",
+    "node-sass": "^5.0.0",
     "opn": "^4.0.2",
     "url-search-params-polyfill": "^4.0.0",
     "vue": "2.5.2",
